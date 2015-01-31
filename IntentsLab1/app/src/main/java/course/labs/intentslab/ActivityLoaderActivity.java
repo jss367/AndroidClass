@@ -10,12 +10,15 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
+import org.w3c.dom.Text;
+
 public class ActivityLoaderActivity extends Activity {
     
 	static private final int GET_TEXT_REQUEST_CODE = 1;
 	static private final String URL = "http://www.google.com";
 	static private final String TAG = "Lab-Intents";
-    
+    static private final int RESULT_OK = 1;
+
 	// For use with app chooser
 	static private final String CHOOSER_TEXT = "Load " + URL + " with:";
     
@@ -70,8 +73,7 @@ public class ActivityLoaderActivity extends Activity {
 
 
 		// TODO - Start an Activity using that intent and the request code defined above
-        explicitIntent.putExtra("Request code", GET_TEXT_REQUEST_CODE);
-		startActivity(explicitIntent);
+        startActivityForResult(explicitIntent, GET_TEXT_REQUEST_CODE);
         
         
 	}
@@ -84,8 +86,7 @@ public class ActivityLoaderActivity extends Activity {
         
 		// TODO - Create a base intent for viewing a URL
 		// (HINT:  second parameter uses Uri.parse())
-		
-        Intent baseIntent = new Intent(this, Uri.parse(URL));
+		Intent baseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(URL));
 		
 		// TODO - Create a chooser intent, for choosing which Activity
 		// will carry out the baseIntent
@@ -97,7 +98,7 @@ public class ActivityLoaderActivity extends Activity {
         
         
 		// TODO - Start the chooser Activity, using the chooser intent
-startActivity(chooserIntent);
+        startActivity(chooserIntent);
         
 	}
     
@@ -109,7 +110,16 @@ startActivity(chooserIntent);
 		// TODO - Process the result only if this method received both a
 		// RESULT_OK result code and a recognized request code
 		// If so, update the Textview showing the user-entered text.
+            if (requestCode == GET_TEXT_REQUEST_CODE){
+                if(resultCode == RESULT_OK){
+                    String text = data.getStringExtra("theText");
+                    if(text != null){
+                        mUserTextView.setText(text);
+                    }
 
+                }
+
+            }
 	
     
     
