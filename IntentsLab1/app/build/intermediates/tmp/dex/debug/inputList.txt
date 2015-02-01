@@ -1,1 +1,2 @@
 C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab1\app\build\intermediates\classes\debug
+C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab1\app\build\intermediates\pre-dexed\debug\robotium-solo-5.2.1-29d8b49c5f66f0ceced796845fe947e92f1b6caa.jar

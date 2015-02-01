@@ -17,7 +17,87 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: course.labs.intentslab" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bae4ae3-dead-48ba-92fc-1d5c9cf0f3b2" name="Default" comment="" />
+    <list default="true" id="8bae4ae3-dead-48ba-92fc-1d5c9cf0f3b2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_2_1.xml" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\IntentsLab.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\layout\activity_loader_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\layout\explicitly_loaded_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\menu\activity_explicit.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\menu\activity_loader.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\menu\activity_my_browser.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\values-v11\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\values-v14\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\src\course\labs\intentslab\ActivityLoaderActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\IntentsLab\src\course\labs\intentslab\ExplicitlyLoadedActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\layout\my_browser_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\menu\main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values-sw600dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values-sw720dp-land\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values-v11\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values-v14\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\Skeletons\MyBrowser\src\course\labs\intentslab\mybrowser\MyBrowserActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\IntentsLabTest.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\classes\course\labs\intentslab\test\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\classes\course\labs\intentslab\test\ExplicitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\classes\course\labs\intentslab\test\ImplicitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\dexedLibs\robotium-solo-5.0.2-SNAPSHOT-0802d0019a9224b074a852f4af03be76.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\bin\resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\gen\course\labs\intentslab\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\libs\robotium-solo-5.0.2-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\res\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\src\course\labs\intentslab\test\ExplicitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\SourceFiles\TestCases\IntentsLabTest\src\course\labs\intentslab\test\ImplicitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\Intents\Writeup\Lab-Intents.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HMGSYS\Documents\GitHub\Android\AndroidClass\IntentsLab\local.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/tmp/dex/debug/inputList.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/tmp/dex/debug/inputList.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="IntentsLab.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +132,8 @@
       <file leaf-file-name="ActivityLoaderActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1388" max-vertical-offset="2125">
-              <caret line="105" column="79" selection-start-line="105" selection-start-column="79" selection-end-line="105" selection-end-column="79" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1439" max-vertical-offset="2125">
+              <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
               <folding>
                 <element signature="e#1265#1459#0" expanded="true" />
                 <element signature="e#1454#1455#0" expanded="true" />
@@ -64,21 +144,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExplicitlyLoadedActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6998395" vertical-offset="261" max-vertical-offset="901">
-              <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/Android/sdk/sources/android-21/android/app/Activity.java">
+      <file leaf-file-name="ExplicitTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/test/ExplicitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="71485" max-vertical-offset="101796">
-              <caret line="4413" column="22" selection-start-line="4413" selection-start-column="22" selection-end-line="4413" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="1462">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExplicitlyLoadedActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="901">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,6 +190,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -527,7 +620,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4268197067630" />
+        <entry key="$PROJECT_DIR$" value="4268225775147" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -644,6 +737,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -651,19 +745,19 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="286" />
+    <option name="y" value="55" />
+    <option name="width" value="1400" />
+    <option name="height" value="1058" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -689,6 +783,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="IntentsLab" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -733,6 +831,28 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intentslab" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntentsLab" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="manifests" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
@@ -754,8 +874,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="ARM" />
+    <property name="options.lastSelected" value="gradle.compiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Android Application.app">
+  <component name="RunManager" selected="Android Tests.ImplicitTest">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -888,8 +1012,56 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="ExplicitTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="course.labs.intentslab.test.ExplicitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImplicitTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="course.labs.intentslab.test.ImplicitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.ExplicitTest" />
+      <item index="2" class="java.lang.String" itemvalue="Android Tests.ImplicitTest" />
     </list>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -911,31 +1083,51 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="286" y="55" width="1400" height="1058" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3617647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4090909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -994,6 +1186,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files (x86)/Android/sdk/sources/android-21/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7736758" vertical-offset="72862" max-vertical-offset="101796">
+          <caret line="4413" column="22" selection-start-line="4413" selection-start-column="22" selection-end-line="4413" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="901">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
@@ -1002,18 +1210,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files (x86)/Android/sdk/sources/android-21/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="71485" max-vertical-offset="101796">
-          <caret line="4413" column="22" selection-start-line="4413" selection-start-column="22" selection-end-line="4413" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1388" max-vertical-offset="2125">
-          <caret line="105" column="79" selection-start-line="105" selection-start-column="79" selection-end-line="105" selection-end-column="79" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1439" max-vertical-offset="2125">
+          <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
           <folding>
             <element signature="e#1265#1459#0" expanded="true" />
             <element signature="e#1454#1455#0" expanded="true" />
@@ -1023,10 +1223,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6998395" vertical-offset="261" max-vertical-offset="901">
-          <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/test/ExplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
